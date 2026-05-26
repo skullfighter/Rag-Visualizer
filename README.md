@@ -115,3 +115,6 @@ python app.py
 | Reranking | sentence-transformers cross-encoder |
 | Backend API | FastAPI + uvicorn |
 | Frontend | Next.js 16, Zustand, Framer Motion, Tailwind CSS v4 |
+
+
+<video controls src="2026-05-26 19-28-31 - Trim.mp4" title="Title"></video>
