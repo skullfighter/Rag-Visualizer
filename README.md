@@ -2,7 +2,7 @@
 
 A conversational RAG (Retrieval-Augmented Generation) pipeline with a live visualization UI. Ask questions about your PDF documents and watch each stage of the pipeline animate in real time: query rewriting, hybrid retrieval, reranking, prompt building, and streaming generation.
 
-![Pipeline visualization](https://raw.githubusercontent.com/your-username/Rag-Visualizer/main/docs/preview.png)
+![alt text](rag-visualizer.gif)
 
 ## Features
 
@@ -115,6 +115,3 @@ python app.py
 | Reranking | sentence-transformers cross-encoder |
 | Backend API | FastAPI + uvicorn |
 | Frontend | Next.js 16, Zustand, Framer Motion, Tailwind CSS v4 |
-
-
-![alt text](rag-visualizer.gif)
